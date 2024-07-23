@@ -59,7 +59,7 @@ class StreamlitResponse(ResponseParser):
         return
 
 
-st.write("# Chat with Credit Card Fraud Dataset 🦙")
+st.write("# Stock plot and Info")
 
 df = pd.read_csv('msft_stock_data.csv')
 
