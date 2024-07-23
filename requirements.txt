@@ -1,4 +1,6 @@
+Python 3.x
+Streamlit
+pandas
+pandasai
 langchain
-openai
-streamlit
-yfinance
+plotly
